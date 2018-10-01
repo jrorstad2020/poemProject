@@ -6,4 +6,9 @@ to my surprise silence pierces the air
 This calls for a break so I sit on a lawnchair
 and yet I live in a lawnless land
 I high five my opponents face with my massive hand
+<<<<<<< HEAD
+The End
+=======
+then some of them die
+>>>>>>> 18a619e96c1b8e8f39be560c0ca086e1cf6aab7b
 The End
